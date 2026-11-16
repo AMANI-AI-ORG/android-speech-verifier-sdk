@@ -1,0 +1,12 @@
+## amani-speech-verifier 1.0.0 (backfilled)
+
+Rebuilt from tag `speech-v1.0.0` of the SDK repository. No GitHub Release is created for backfilled versions.
+
+### Checksums (SHA-256)
+
+| File | SHA-256 |
+|---|---|
+| `amani-speech-verifier-1.0.0-sources.jar` | `b22cbd7b036ae5f1c8916f1140aa453cd6f1bfaa8c036035ec2ab088281be129` |
+| `amani-speech-verifier-1.0.0.aar` | `c2d9a3f4e43b4a73c39f2a9dd8df42eb1c301d612890bb2b3d05f94af8c0e709` |
+| `amani-speech-verifier-1.0.0.module` | `2a13de7a6af8a30a17f4e981cb1a56c2d0c683c65651726d5ac82aedb21ed7a6` |
+| `amani-speech-verifier-1.0.0.pom` | `a2f8812c8f8be2ac6017bfaf8abdf0c04e9d0aebdba61668fdfa449e39c5fea5` |

@@ -1,0 +1,10 @@
+{
+  "groupId": "ai.amani.android",
+  "artifactId": "amani-speech-verifier",
+  "version": "1.0.0",
+  "tag": "v1.0.0",
+  "prerelease": false,
+  "backfilled": true,
+  "sourceTag": "speech-v1.0.0",
+  "createdAt": "2026-11-16T12:36:49Z"
+}

@@ -69,8 +69,9 @@ FORBIDDEN_NOTES = re.compile(r"obfuscat|renamedClasses|totalClasses|minifyEnable
                              r"sourceCommit|appConstants|/Users/|/home/|C:\\", re.I)
 
 
-# Tag of a version in its public repository: artifactId → prefix + version.
-TAG_PREFIX = {"AmaniAi": "v", "amani-speech-verifier": "speech-v"}
+# Tag of a version in its public repository: artifactId → prefix + version. Every module has its own
+# public repository, so all use the bare "v<version>" (the private SDK repository keeps "speech-v…").
+TAG_PREFIX = {"AmaniAi": "v", "amani-speech-verifier": "v"}
 
 
 def load_release(vdir):

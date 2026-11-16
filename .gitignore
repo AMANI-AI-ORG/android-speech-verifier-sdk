@@ -1,0 +1,5 @@
+# OS / IDE files only. Never ignore anything under maven/: every published file must be committed.
+.DS_Store
+.idea/
+*.iml
+_site/
